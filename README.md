@@ -1,7 +1,10 @@
 # Bike Sales Analysis Excel
+![image](https://github.com/user-attachments/assets/57cd074f-ebf9-4995-81c3-0be64e9278b5)
 
 ## Project Purpose
 The purpose of this project is to showcase my skills in Excel, including organizing datasets, creating pivot tables, graphics, and dashboards.
+
+You can find dataset on https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe 
 
 ## Data Organization
 ![image](https://github.com/user-attachments/assets/a47aaa3a-8007-4a21-a5ec-577fb5a454e5)
